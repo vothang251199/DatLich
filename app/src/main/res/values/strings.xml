@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Đặt Lịch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="acction_home">Home</string>
+    <string name="acction_news">News</string>
+    <string name="acction_profile">Profile</string>
+</resources>
